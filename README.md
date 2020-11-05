@@ -1,0 +1,1 @@
+# Creates query for mongo to fix countries
